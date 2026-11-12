@@ -61,7 +61,7 @@
 > Because this utility is compiled from Python into a standalone `.exe` using **PyInstaller**, Windows Defender SmartScreen may display an *"Unknown Publisher"* prompt on the first launch. Simply click **More info** $\rightarrow$ **Run anyway**.
 
 * 🔍 **100% Open Source:** You can inspect the exact Python script right here in this repository before downloading.
-* ✅ **VirusTotal Official Scan:** [**Click here to view the clean VirusTotal report**](https://www.virustotal.com/gui/file/e62fdc1332d89df8a07d2c6b5597555921d7d34c781cdc76830afc26131d7124)
+* ✅ **VirusTotal Official Scan:** [**Click here to view the clean VirusTotal report**](https://www.virustotal.com/gui/file/76af6807a19709f07d3310c380c577de65eb41278a75ba49e8487b0ddd0f7b71?nocache=1)
 
 ---
 
