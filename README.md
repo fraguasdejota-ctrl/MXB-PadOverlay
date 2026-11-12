@@ -14,7 +14,8 @@
   </p>
 
   <!-- Sube una captura o GIF de tu mando sobre el juego a GitHub y pega el enlace aquí abajo -->
-  <img src="https://via.placeholder.com/800x400/18181b/FF5500?text=Insert+Your+MX+Bikes+Overlay+Screenshot+or+GIF+Here" alt="MXB PadOverlay Preview" width="750" style="border-radius: 10px;">
+  <img width="1873" height="1030" alt="Captura de pantalla 2026-11-13 003826" src="https://github.com/user-attachments/assets/e7091275-2a8c-4439-ad7a-606a70c8400a" />
+
 
 </div>
 
