@@ -14,9 +14,11 @@
 
   <!-- Galería de nuevas capturas: Sube tus imágenes a GitHub y sustituye los enlaces -->
   <p align="center">
-    <img width="45%" alt="CoreHUD Launcher Preview" src="https://github.com/user-attachments/assets/TU_ENLACE_SETUP.png" />
+    <img width="45%" alt="CoreHUD Launcher Preview" src="<img width="943" height="814" alt="Captura de pantalla 2026-11-13 205612" src="https://github.com/user-attachments/assets/53d732ba-d1d6-4280-a0e7-aa38fb1aaa2c" />
+" />
     &nbsp;&nbsp;
-    <img width="45%" alt="CoreHUD Discord & Game Overlay" src="https://github.com/user-attachments/assets/TU_ENLACE_DISCORD.png" />
+    <img width="45%" alt="CoreHUD Discord & Game Overlay" src="<img width="1023" height="905" alt="Captura de pantalla 2026-11-13 205629" src="https://github.com/user-attachments/assets/72f2321d-d26c-4497-b230-0b2b5eaaceff" />
+" />
   </p>
 
 </div>
