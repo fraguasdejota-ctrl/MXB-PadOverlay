@@ -63,6 +63,9 @@
 * 🔍 **100% Open Source:** You can inspect the exact Python script right here in this repository before downloading.
 * ✅ **VirusTotal Official Scan:** [**Click here to view the clean VirusTotal report**](https://www.virustotal.com/gui/file/76af6807a19709f07d3310c380c577de65eb41278a75ba49e8487b0ddd0f7b71?nocache=1)
 
+UPCOMING UPDATES (v2.0):
+• Xbox One / Series X|S & PS5 DualSense skins support (Black & White themes).
+• In-app controller skin selector & hotkey to lock/drag the window on the fly.
 ---
 
 ## 🛠️ Build from Source (For Developers)
