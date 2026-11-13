@@ -1,35 +1,51 @@
 <div align="center">
 
-  # 🏍️ MXB PadOverlay
-  ### **Standalone Transparent Controller HUD for MX Bikes & Discord**
+  # 🏍️ MXB PadOverlay v2.0
+  ### **Standalone Transparent Controller HUD for PC Gaming, Simulators & Discord**
 
-  [![Release](https://img.shields.io/badge/Version-v1.0.0-FF5500?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO/MXB-PadOverlay/releases)
+  [![Release](https://img.shields.io/badge/Version-v2.0.0-FF5500?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO/MXB-PadOverlay/releases)
   [![Platform](https://img.shields.io/badge/Platform-Windows_10_%2F_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-  [![Python](https://img.shields.io/badge/Built_With-Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-  [![Size](https://img.shields.io/badge/Lightweight-~8_MB-00C853?style=for-the-badge)]()
+  [![Python](https://img.shields.io/badge/Built_With-Python_3.12_%2F_PyQt6-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
   [![License](https://img.shields.io/badge/License-MIT-9C27B0?style=for-the-badge)]()
 
   <p align="center">
-    <b>Show your real-time controller inputs directly over your screen or on Discord streams without opening OBS or Streamlabs.</b>
+    <b>Show your real-time controller inputs directly over any PC game, simulator, or Discord screen-share without opening OBS or Streamlabs.</b>
   </p>
 
-  <!-- Sube una captura o GIF de tu mando sobre el juego a GitHub y pega el enlace aquí abajo -->
-  <img width="1873" height="1030" alt="Captura de pantalla 2026-11-13 003826" src="https://github.com/user-attachments/assets/e7091275-2a8c-4439-ad7a-606a70c8400a" />
-
+  <img width="1873" height="1030" alt="MXB PadOverlay v2.0 Preview" src="https://github.com/user-attachments/assets/e7091275-2a8c-4439-ad7a-606a70c8400a" />
 
 </div>
+
+---
+
+### 💡 100% Free & Open Source
+**MXB PadOverlay is and always will be completely free.** 
+No paywalls, no subscriptions, and no locked features. Nobody should ever have to pay or subscribe for simple utility tools like a controller overlay. The full source code is publicly available here on GitHub for complete transparency—inspect it, modify it, or build upon it freely.
 
 ---
 
 ## 🔥 Why MXB PadOverlay?
 
 > [!TIP]
-> **Designed specifically for the MX Bikes community:** Share your whips, scrubs, and throttle/clutch control with your friends on Discord screen-share or record raw gameplay with zero FPS drops.
+> **Universal PC Compatibility:** Designed for MX Bikes, racing simulators, and any PC game. Share your inputs, whips, scrubs, and throttle/brake control with your friends on Discord screen-share or record raw gameplay seamlessly.
 
-* 🎯 **No OBS / Streamlabs Needed:** Runs as a native, standalone floating window on your desktop.
-* ⚡ **Ultra Lightweight:** Consumes virtually **0% CPU** and minimal RAM compared to heavy streaming software.
-* 👻 **100% Transparent Background:** Clean floating HUD that stays on top of your game (`Always on Top`).
-* 🔌 **Plug & Play:** Single `.exe` file. No Python installation or browser tabs required.
+- 🎯 **No OBS / Streamlabs Needed:** Runs as a native, standalone floating window on your desktop.
+- ⚡ **Optimized Performance:** While it is no longer an ultra-lightweight 8MB script (due to the embedded web engine required for high-definition vector skins), it remains extremely efficient and consumes far fewer resources than running browser sources or heavy streaming suites.
+- 👻 **100% Transparent Background:** Clean floating HUD that stays on top of your game (`Always on Top`).
+- 🔌 **Plug & Play:** Single `.exe` file with an intuitive configuration launcher. No browser tabs required.
+
+---
+
+## 🚀 What's New in v2.0
+- **Official PS5 DualSense Skins:** Added clean, high-definition vector designs for **DualSense White** and **DualSense Black** themes.
+- **Expanded Controller Support:** Full native skins for:
+  - PS5 DualSense (White & Black)
+  - PS4 DualShock 4 (White & Black)
+  - Xbox One / Series X|S (White & Black)
+  - Xbox 360 Controller
+  - PS3 DualShock 3
+- **Player Slot Selection:** Dedicated launcher dropdown to easily select between Player 1, 2, 3, or 4.
+- **HUD Scaling:** Adjustable sizing options (*Small 75%*, *Normal 100%*, *Large 125%*).
 
 ---
 
@@ -40,32 +56,35 @@
 | **Standalone `.exe`** | ✅ Yes | ❌ No | ❌ No |
 | **True Desktop Transparency** | ✅ Yes | ⚠️ Only inside recording | ❌ Solid background |
 | **Discord Screen-Share Ready** | ✅ Direct | ❌ Requires Virtual Cam / Projector | ❌ Shows browser UI |
-| **RAM / CPU Impact** | 🟢 Ultra Low | 🔴 High | 🟡 Medium |
+| **System Resource Impact** | 🟢 Low / Moderate | 🔴 High | 🟡 Medium |
 
 ---
 
-## 🚀 How to Download & Use (For Riders)
+## 🚀 How to Download & Use
 
-1. **Connect your PS4/DualShock controller** to your PC before launching the app.
-2. Go to the [**Releases**](https://github.com/TU_USUARIO/MXB-PadOverlay/releases) section on the right side of this page and download `MXB_PadOverlay.zip`.
-3. Extract the `.zip` and run **`MXB PadOverlay.exe`**.
+1. Go to the [**Releases**](https://github.com/TU_USUARIO/MXB-PadOverlay/releases) section and download `MXB_PadOverlay_v2.exe`.
+2. Connect your controller to your PC before launching the app.
+3. Run the executable to open the configuration launcher.
+4. Select your preferred controller skin, player slot, and HUD size, then click **LAUNCH OVERLAY**.
 
 > [!IMPORTANT]
-> **MX Bikes Display Mode:** Make sure MX Bikes is running in **Windowed** or **Borderless Windowed** mode so the transparent overlay can float on top of the game screen.
+> **Game Display Mode:** Make sure your game is running in **Windowed** or **Borderless Windowed** mode so the transparent overlay can float on top of the screen.
 
 ---
 
-## 🛡️ Antivirus & Security Check (VirusTotal)
+## 🎮 Controls & Shortcuts
+- **Move Overlay:** Left-click and drag anywhere on the controller window.
+- **Close Overlay:** Right-click directly on the controller window to shut it down instantly.
+
+---
+
+## 🛡️ Antivirus & Security Check
 
 > [!NOTE]
 > Because this utility is compiled from Python into a standalone `.exe` using **PyInstaller**, Windows Defender SmartScreen may display an *"Unknown Publisher"* prompt on the first launch. Simply click **More info** $\rightarrow$ **Run anyway**.
 
-* 🔍 **100% Open Source:** You can inspect the exact Python script right here in this repository before downloading.
-* ✅ **VirusTotal Official Scan:** [**Click here to view the clean VirusTotal report**](https://www.virustotal.com/gui/file/76af6807a19709f07d3310c380c577de65eb41278a75ba49e8487b0ddd0f7b71?nocache=1)
+- 🔍 **100% Open Source:** You can inspect the exact Python code right here in this repository before downloading.
 
-UPCOMING UPDATES (v2.0):
-• Xbox One / Series X|S & PS5 DualSense skins support (Black & White themes).
-• In-app controller skin selector & hotkey to lock/drag the window on the fly.
 ---
 
 ## 🛠️ Build from Source (For Developers)
@@ -78,10 +97,10 @@ git clone [https://github.com/TU_USUARIO/MXB-PadOverlay.git](https://github.com/
 cd MXB-PadOverlay
 
 # 2. Install dependencies
-pip install pywebview pyinstaller
+pip install PyQt6 PyQt6-WebEngine
 
 # 3. Run the script directly
-python "MXB PadOverlay.py"
+python "MXB_PadOverlay_v2.py"
 
 # 4. Or compile into a standalone executable
-pyinstaller --onefile --noconsole --clean "MXB PadOverlay.py"
+pyinstaller --onefile --noconsole --clean "MXB_PadOverlay_v2.py"
