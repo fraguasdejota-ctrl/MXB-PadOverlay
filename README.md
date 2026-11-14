@@ -108,3 +108,8 @@ python "CoreHUD.py"
 
 # 4. Or compile into a standalone executable
 pyinstaller --onefile --noconsole --clean --name "CoreHUD" "CoreHUD.py"
+
+## Licencia
+
+Este proyecto está bajo **Todos los derechos reservados (All Rights Reserved)**. 
+No está permitido su uso comercial, modificación o redistribución sin la autorización expresa del autor (Charlie).
